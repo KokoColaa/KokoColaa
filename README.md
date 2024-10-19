@@ -6,11 +6,11 @@
 ### 📈 GitHub Activity Graph:
 
 <!--   green snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+![KokoColaa's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 <!--   stats + languages -->
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=KokoColaa&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KokoColaa&theme=radical&layout=compact) |
+| ![KokoColaa's github stats](https://github-readme-stats.vercel.app/api?username=KokoColaa&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KokoColaa&theme=radical&layout=compact) |
 
 <div id="title" align=left>
 
@@ -22,11 +22,12 @@
 热爱前端、热爱技术。工作经验两个月。喜欢参与一些开源项目的讨论。
 
 ### 社交主页:
-
 <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
-- [![modern cpp](https://img.shields.io/badge/Bilibili-KokoCola-pink)](https://space.bilibili.com/645941441?spm_id_from=333.1007.0.0)
+-   <a href="https://space.bilibili.com/645941441?spm_id_from=333.1007.0.0"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：网课划水真菌
 
+-   <a href="https://www.douyin.com/user/self?from_tab_name=main"><code><img height="20" width="50" src="./images/douyin.png"></code></a>：KokoCola
+-   
 - [![modern cpp](https://img.shields.io/badge/抖音-KokoCola-purple)](https://www.douyin.com/user/self?from_tab_name=main)
 
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
