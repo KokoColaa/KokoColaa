@@ -17,7 +17,8 @@
 
 ![头像](image/头像.jpg)
 
-![Visitor Count](https://profile-counter.glitch.me/520xwt/count.svg)
+![](https://count.getloli.com/get/@KokoColaa.github.readme)
+</br>
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=KokoCola.
 
