@@ -2,7 +2,15 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=520xwt&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
+### 📈 GitHub Activity Graph:
+
+<!--   green snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+<!--   stats + languages -->
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=KokoColaa&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KokoColaa&theme=radical&layout=compact) |
+
 
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
@@ -19,6 +27,9 @@
 
 ![](https://count.getloli.com/get/@KokoColaa.github.readme)
 </br>
+
+### Profile Views
+此页面的访问者计数从 2024 年 10 月 19 日开始
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=KokoCola.
 
