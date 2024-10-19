@@ -26,7 +26,7 @@
 
 -   <a href="https://space.bilibili.com/645941441?spm_id_from=333.1007.0.0"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：网课划水真菌
 
--   <a href="https://www.douyin.com/user/self?from_tab_name=main"><code><img height="20" width="50" src="./images/douyin.png"></code></a>：KokoCola
+-   <a href="https://www.douyin.com/user/self?from_tab_name=main"><code><img height="20" width="50" src="./images/dy.png"></code></a>：KokoCola
 -   
 - [![modern cpp](https://img.shields.io/badge/抖音-KokoCola-purple)](https://www.douyin.com/user/self?from_tab_name=main)
 
